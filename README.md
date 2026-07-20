@@ -1,4 +1,4 @@
-# CNN-QMIX: Cooperative Lane-Change Decision Making for CAV Platooning
+# Cooperative Lane-Change Decision Making for CAV Platooning
 
 Reference implementation for the paper *"Multi-Agent Reinforcement Learning for
 Cooperative Lane-Change Decision Making in Mixed Traffic."* A CNN-QMIX multi-agent
