@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.csv
+*.png
+figs/
+checkpoints_new/
+results_*.csv
+.DS_Store
